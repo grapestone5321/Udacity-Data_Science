@@ -78,7 +78,37 @@ Practice using MapReduce to work with New York Subway data.
 
 
 ## Data Science Interview Preparation
+https://classroom.udacity.com/courses/ud944
 
+
+
+
+### LESSON 1: Ace the Data Scientist Interview
+Identify the different jobs in data science and learn strategies to ace the interview.
+
+
+### LESSON 2:b Data Analysis Interview Practice
+Develop a healthy, confident mindset around your qualifications as a candidate by diving deep into potential data analysis Interview questions.
+
+
+### LESSON 3: Machine Learning Interview Practice
+Analyze potential machine learning interview questions and learn how to master them by discovering the root of the problems you're asked to solve.
+
+
+### LESSON 4: Technical Interviewing Techniques
+Learn about the “algorithm” for answering common technical interviewing questions. Practice and get tips for giving interviewers what they’re looking for.
+
+
+### LESSON 5: Practice Behavioral Questions
+Practice answering behavioral questions and evaluate sample responses.
+
+
+### LESSON 6: Interview Fails
+Some real-life examples of interviews that didn't go as expected - it happens all the time!
+
+
+### LESSON 7: Land a Job Offer
+You've practiced a lot for the interview by now. Continue practicing, and you'll ace the interview!
 
 
 
@@ -92,30 +122,20 @@ https://classroom.udacity.com/courses/ud170
 
 
 
-View
-LESSON 1
-Data Analysis Process
+
+### LESSON 1: Data Analysis Process
 Go through the data analysis process from start to finish using a dataset about Udacity student engagement.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 2
-NumPy and Pandas for 1D Data
+
+### LESSON 2: NumPy and Pandas for 1D Data
 Learn how to use NumPy and Pandas to write clean, concise, and fast data analysis code for one-dimensional data.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 3
-NumPy and Pandas for 2D Data
+
+### LESSON 3: NumPy and Pandas for 2D Data
 Learn more features of NumPy and Pandas you can use to analyze two-dimensional data.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 4
-Final Project: Investigate a Dataset
+
+### LESSON 4: Final Project: Investigate a Dataset
 Conduct your own analysis over a dataset, and share what you've found!
 
 
