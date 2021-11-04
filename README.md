@@ -4,6 +4,8 @@ Udacity-Data_Science
 
 -------
 
+## Udacity
+
 ## Intro to Data Science
 
 Learn What It Takes to Become a Data Scientist
