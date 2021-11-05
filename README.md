@@ -120,7 +120,7 @@ https://classroom.udacity.com/courses/ud170
 This course will introduce you to the world of data analysis. You'll learn how to go through the entire data analysis process, which includes:
 
 - Posing a question
--
+
 - Wrangling your data into a format you can use and fixing any problems with it
 
 - Exploring the data, finding patterns in it, and building your intuition about it
